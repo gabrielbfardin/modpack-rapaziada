@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "packId": "modpack-rapaziada",
-  "revision": 9,
-  "manifestUrl": "https://github.com/gabrielbfardin/modpack-rapaziada/releases/download/pack-r9/manifest.json",
-  "manifestSha256": "960a49191369ba17025e09f0584f7b6814c212799f815c6401b39da3b6798b04",
+  "revision": 10,
+  "manifestUrl": "https://github.com/gabrielbfardin/modpack-rapaziada/releases/download/pack-r10/manifest.json",
+  "manifestSha256": "6a4a3b23132f7483048a013fb008a9289b20de3ed7d5784180ab00c85e33545b",
   "minimumClientVersion": "1.0.2",
-  "publishedAt": "2026-07-23T02:42:24.1460373+00:00"
+  "publishedAt": "2026-07-24T00:38:16.8899392+00:00"
 }
